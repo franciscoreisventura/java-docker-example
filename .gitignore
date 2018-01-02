@@ -1,0 +1,12 @@
+*.orig
+*.iml
+.idea
+.classpath
+.project
+.settings/
+target/
+ignore/
+logs
+logs/
+.checkstyle
+database.db
